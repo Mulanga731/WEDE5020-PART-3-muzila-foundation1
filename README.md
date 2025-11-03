@@ -582,39 +582,42 @@ footer {
   </url>
 
 </urlset>
+
 # robots.txt
- 
+ robots.txt for Muzila Foundation
 
+# Allow all crawlers to access all pages
+User-agent: *
+Disallow:
 
-
-
-
-
-
+# Optional: link to your sitemap for better indexing
+Sitemap: https://www.muzilafoundation.org/sitemap.xml
 
  # 7.References
-  
+Google Images. (n.d.). Blue Hands Illustration. [Image] Available at: https://www.google.com/imghp
+ (Accessed: 3 November 2025).
 
- Family Lives. (2025). Family Lives – Parentline and Family Support. Available at: https://www.familylives.org.uk [Accessed 7 Aug. 2025]. 
+Matenzhe, M. (2025). Muzila Foundation Logo (designed by author). [Image] Muzila Foundation Website.
 
-Muzila Foundation. (2025). Muzila Foundation – Website Wireframe. Figma. Available at: https://www.figma.com/design/PpXlKFEyGCnzD1MjgQyDBI/Muzila-Foundation?node-id=0-1&p=f&t=kbKZFCwjNwrB8uhQ-0 [Accessed 7 Aug. 2025]. 
+Google Images. (n.d.). Children Creating Heart Symbol. [Image] Available at: https://www.google.com/imgh
+(Accessed: 3 November 2025).
 
-National Family Association for Deaf People. (2025). NFADV. Available at: https://www.nfadv.org.za [Accessed 7 Aug. 2025]. 
-
+OpenAI. (2025). ChatGPT (GPT-5) [Large language model]. Available at: https://chat.openai.com/
+ (Accessed: 3 November 2025).  
  
 
- 
-
- 
-
- 
+The Family Africa. (n.d.). The Family Africa: Bringing real hope for the future. [Online] Available at: https://www.familyafrica.com/
+ (Accessed: 3 November 2025). 
 
 
+Rays of Hope. (n.d.). Rays of Hope (Johannesburg) Community-based programmes. [Online] Available at: https://raysofhope.co.za/?utm_source=WetpaintGoogleSearch&utm_medium=CPC&utm_campaign=ROH&…
+ (Accessed: 3 November 2025). 
 
 
- 
+JustWorld International. (n.d.). JustWorld International – transforming lives through education, healthcare & nutrition. [Online] Available at: https://justworldinternational.org/?gad_source=1&gbraid=0AAAAA9WnVVLF_IdPGqK0nqSKSDEjfiwqf
+ (Accessed: 3 November 2025). 
 
- 
 
- 
-   
+Hope & Healing International. (n.d.). Hope & Healing International – supporting children with disabilities in the world’s poorest communities. [Online] Available at: https://www.hopeandhealing.org/financials/?gad_source=1&gad_campaignid=21400142081&…
+ (Accessed: 3 November 2025).
+
