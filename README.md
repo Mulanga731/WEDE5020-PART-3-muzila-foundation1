@@ -410,6 +410,31 @@ footer {
  * Commits are provided on github.
  * Links are not breaking and working perfectly. 
 
+  # SEO TAGS
+   about.html
+   
+  <meta name="description" content="Learn about Muzila Foundation — a non-profit organization transforming lives through family support, education, and community empowerment.">
+  <meta name="keywords" content="About Muzila Foundation, non-profit organization, family empowerment, youth education, social impact, South Africa charity">
+  <meta name="author" content="Muzila Foundation">
+  <meta name="robots" content="index, follow">
+
+  
+  <meta property="og:title" content="About Muzila Foundation | Empowering Families & Communities">
+  <meta property="og:description" content="We empower vulnerable children and families to build secure, educated, and purpose-driven lives.">
+  <meta property="og:image" content="../_images/muzila_logo.jpg">
+  <meta property="og:url" content="https://www.muzilafoundation.org/about.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_ZA">
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="About Muzila Foundation | Building Bonds, Shaping Futures">
+  <meta name="twitter:description" content="Discover how Muzila Foundation supports families and empowers communities across South Africa.">
+  <meta name="twitter:image" content="../_images/muzila_logo.jpg">
+
+index.html
+contact.html
+getintouch.html
 
  
 
