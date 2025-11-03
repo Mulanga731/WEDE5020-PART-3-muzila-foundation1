@@ -511,7 +511,34 @@ footer {
 
 
  # enquiry.html
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muzila Foundation | Enquiry</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div id="logo">
+      <img src="../_images/muzila_logo.jpg" alt="Muzila Foundation Logo">
+      <span class="slogan">Building Bonds, Shaping Futures</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="getintouch.html">Get in Touch</a></li>
+        <li><a href="enquiry.html" class="active">Enquiry</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
+ 
+  # Sitemap.xml
+  
  
 
 
