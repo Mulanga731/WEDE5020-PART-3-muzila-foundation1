@@ -1,0 +1,9 @@
+# robots.txt for Muzila Foundation
+
+# Allow all crawlers to access all pages
+User-agent: *
+Disallow:
+
+# Optional: link to your sitemap for better indexing
+Sitemap: https://www.muzilafoundation.org/sitemap.xml
+
