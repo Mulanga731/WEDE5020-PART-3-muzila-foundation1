@@ -433,6 +433,30 @@ footer {
   <meta name="twitter:image" content="../_images/muzila_logo.jpg">
 
 index.html
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muzila Foundation | Building Bonds, Shaping Futures</title>
+    
+    
+    <meta name="description" content="Muzila Foundation empowers families, protects children, and strengthens communities through education, support, and leadership programs. Join us in building bonds and shaping futures.">
+    <meta name="keywords" content="Muzila Foundation, non-profit organization, child welfare, family support, community empowerment, youth education, skills development, leadership training, South Africa charity, family wellbeing">
+    <meta name="author" content="Muzila Foundation">
+    <meta name="robots" content="index, follow">
+
+    
+    <meta property="og:title" content="Muzila Foundation | Building Bonds, Shaping Futures">
+    <meta property="og:description" content="Dedicated to empowering families and communities through education, skills development, and emotional support. Help us make a lasting impact.">
+    <meta property="og:image" content="../_images/muzila_logo.jpg">
+    <meta property="og:url" content="https://www.muzilafoundation.org">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_ZA">
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Muzila Foundation | Building Bonds, Shaping Futures">
+    <meta name="twitter:description" content="Empowering families and communities through education, support, and leadership.">
+    <meta name="twitter:image" content="../_images/muzila_logo.jpg">
+
 contact.html
 getintouch.html
 
