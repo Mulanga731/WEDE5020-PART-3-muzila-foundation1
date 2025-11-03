@@ -411,7 +411,7 @@ footer {
  * Links are not breaking and working perfectly. 
 
   # SEO TAGS
-   about.html
+# about.html
    
   <meta name="description" content="Learn about Muzila Foundation — a non-profit organization transforming lives through family support, education, and community empowerment.">
   <meta name="keywords" content="About Muzila Foundation, non-profit organization, family empowerment, youth education, social impact, South Africa charity">
@@ -432,7 +432,7 @@ footer {
   <meta name="twitter:description" content="Discover how Muzila Foundation supports families and empowers communities across South Africa.">
   <meta name="twitter:image" content="../_images/muzila_logo.jpg">
 
-index.html
+# index.html
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Muzila Foundation | Building Bonds, Shaping Futures</title>
@@ -457,13 +457,60 @@ index.html
     <meta name="twitter:description" content="Empowering families and communities through education, support, and leadership.">
     <meta name="twitter:image" content="../_images/muzila_logo.jpg">
 
-contact.html
+# contact.html
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muzila Foundation | Contact Us</title>
+  <link rel="stylesheet" href="styles.css">
 
-getintouch.html
+  
+<body>
+    <header>
+        <div id="logo">
+            <img src="../_images/muzila_logo.jpg" alt="Muzila Foundation Logo">
+            <span class="slogan">Building bonds, shaping futures</span>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="getintouch.html">Get in Touch</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+  
+  <meta name="description" content="Contact Muzila Foundation for more information about our programs, donations, and partnerships.">
+  <meta name="keywords" content="Contact Muzila Foundation, support children, donate, non-profit South Africa, community programs">
+  <meta name="author" content="Muzila Foundation">
+  <meta name="robots" content="index, follow">
+
+  
+  <meta property="og:title" content="Contact Muzila Foundation">
+  <meta property="og:description" content="Reach out to Muzila Foundation for enquiries, partnerships, or to support our cause.">
+  <meta property="og:image" content="../_images/muzila_logo.jpg">
+  <meta property="og:url" content="https://www.muzilafoundation.org/contact.html">
+  <meta property="og:type" content="website">
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Contact Muzila Foundation">
+  <meta name="twitter:description" content="We're here to assist you — contact our team to learn more or get involved.">
+  <meta name="twitter:image" content="../_images/muzila_logo.jpg">
+
+  
+</head>
+
+ # getintouch.html
  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Muzila Foundation | Get in Touch</title>
   <link rel="stylesheet" href="styles.css" />
+
+
+ # enquiry.html
 
  
 
