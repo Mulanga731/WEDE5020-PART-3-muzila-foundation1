@@ -458,7 +458,12 @@ index.html
     <meta name="twitter:image" content="../_images/muzila_logo.jpg">
 
 contact.html
+
 getintouch.html
+ <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muzila Foundation | Get in Touch</title>
+  <link rel="stylesheet" href="styles.css" />
 
  
 
