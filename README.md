@@ -1,6 +1,6 @@
 # WEDE5020-PART-3-muzila-foundation1
 # PART-1
-
+# THINGS ARE CHANGED WITH REGARDS FROM THE FEEDBACK
 # 1.PROJECT TITLE
 Muzila Foundation.
 
@@ -228,6 +228,36 @@ ENQUIRY
 
 GET IN TOUCH
 •	Get in touch information
+Visit us:1401 Labellucia, Pretoria, South Africa
+Call or Email:
+Phone:065 619 0892
+Email:muzila.mf_consult@mf.com
+ Follow Us:Stay connected for our latest community impact updates.
+            Facebook | Instagram | Twitter
+             @muzilafoundation
+
+# PART 2
+# Changelogs- feedback from part 1
+# Website project proposal
+# All THE CHANGES ARE SHOWN ON THE PART 1 -ONTOP
+FEEDBACK CHANGES
+*Added more information to the goal and objectives and made it more actionable and highlight what is going to take place.
+*Improved proposed website features and functionalities that will appear on all the five webpages.
+*Timeline- Each task is shown with a visible timeline  for each milestones for part 1,2 and 3.
+*Budget-Improved the  bugdet estimated by allocating funds to to the different activities of a web development project namely:
+  -Website  Visual Design--Prototypr,sitemap
+  -Content Creation and Sourcing 
+  - Image Sourcing
+  - Domain main purchase
+  - Coding
+*All the folder are correctly named with a lowercase letter,HTML Tags are improved.
+* Fixed all the links that are broken on github
+* provided comments on the code
+* And provided the readme document
+*References are in capital letter.
+
+
+
 
 
 
