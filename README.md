@@ -15,21 +15,18 @@ Muzila Foundation
 
 ♦ A brief history of the organization  
 
-o It is a first hand  experience in impacting individuals and families to help improve their circumstances .Our impact ranges from crucial health  interventions and support to micro business training and mentoring .  
+o It is a first hand  experience in impacting individuals and families to help improve their circumstances .Our impact ranges from crucial health  interventions and support to micro business training and mentoring .We believe in that we can break poverty cycles by nurturing individuals and supporting families , and help them realise their full potential .We work alongside those we serve ,helping them believe in themselves with dignity.
 
-  
 
 ♦ Mission and Vision Statements 
 
 o Mission  
 
-is to provide care and support to innocent and vulnerable children ,and ensure that children have a safe environment in which they reach their full potential .  
-
-  
+is to provide care and support to innocent and vulnerable children ,and ensure that children have a safe environment. We strive to equip children and families with the tools  they need to overcome adversity and achieve lasting stability.  
 
 Vision  
 
-To create a strong financially secure and usefull educated family and create a legacy of love, integrity and purpose for generations to come .  
+Our vision  create a strong financially secure and usefull educated family and create a legacy of love, integrity and purpose for generations to come .  
 
   
 
@@ -121,9 +118,6 @@ Vision mission and values.
 Organisations profile of history ,leadership , heritage story of families . 
 
  
-
- 
-
 Contact page: 
 
 Contact details(Address ,email, phone) 
@@ -234,6 +228,10 @@ ENQUIRY
 
 GET IN TOUCH
 •	Get in touch information
+
+
+
+
 
  # 7.References
   
